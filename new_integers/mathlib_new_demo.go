@@ -1,6 +1,9 @@
 package new_integers
 
+import "fmt"
+import "github.com/shashankdev81/demo/mathlib"
+
 func NewDivide() {
-	//ans := mathlib.Divide(10, 5)
-	//fmt.Println(ans)
+	ans := integers.Divide(10, 2)
+	fmt.Println(ans)
 }
