@@ -1,13 +1,8 @@
 package main
 
-import (
-	"fmt"
-	"mathlib"
-)
-
 func main() {
-	ans := mathlib.Divide(10, 5)
-	fmt.Println(ans)
+	//ans := mathlib.Divide(10, 5)
+	//fmt.Println(ans)
 }
 
 //
